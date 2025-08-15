@@ -20,6 +20,7 @@ It uses the `ml-regression-simple-linear` library to calculate the best-fit line
 ```bash
 git clone https://github.com/YourUsername/linear-regression-ts.git
 cd linear-regression-ts
+```
 
 
 2. Install dependencies:
@@ -58,11 +59,3 @@ Prédiction pour x = 25 : y = 80.20
 ## Author
 
 TRUTH SEEKER
-
-```
-
----
-
-If you want, I can also make a **more visually appealing version** with badges (Node version, TypeScript, GitHub stars, etc.) so your repo looks professional.  
-Do you want me to do that?
-```
